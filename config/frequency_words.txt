@@ -27,3 +27,6 @@ openai
 小鹏汽车
 平安保险
 抖音
+web3
+Telegram
+虚拟货币
